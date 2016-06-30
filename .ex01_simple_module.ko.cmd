@@ -1,0 +1,1 @@
+cmd_/home/vbox/education/linux_device_drivers/ex01_simple_module.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/vbox/education/linux_device_drivers/ex01_simple_module.ko /home/vbox/education/linux_device_drivers/ex01_simple_module.o /home/vbox/education/linux_device_drivers/ex01_simple_module.mod.o
